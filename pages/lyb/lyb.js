@@ -1,4 +1,4 @@
-// pages/table/table.js
+// pages/lyb/lyb.js
 Page({
 
   /**

@@ -1,14 +1,12 @@
 /**index.wxss**/
-.tr {
-  margin:0px;
-  display: flex;
+.head{
   width: 100%;
-  justify-content: center;
-  align-items: center;
+  height: 40px;
+  background-color: pink;
 }
-.td {
-  width:33.3%;
-  justify-content: center;
-  text-align: center;
-  margin:0px;
+.head text{
+margin:50px 25px;
+}
+.all{
+  background: green;
 }
