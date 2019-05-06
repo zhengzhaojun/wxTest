@@ -1,5 +1,6 @@
 {
   "usingComponents": {
-      "LinkList": "/components/LinkList/LinkList"
+      "LinkList": "/components/LinkList/LinkList",
+      "banner": "/components/banner/banner"
   }
 }

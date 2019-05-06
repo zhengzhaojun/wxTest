@@ -1,9 +1,10 @@
 {
-  "pages":[
+  "pages": [
     "pages/index/index",
     "pages/logs/logs",
     "pages/lyb/lyb",
-    "pages/table/table"
+    "pages/table/table",
+    "components/banner/banner"
   ],
   "tabBar": {
     "color": "red",
@@ -37,10 +38,10 @@
       }
     ]
   },
-  "window":{
-    "backgroundTextStyle":"light",
+  "window": {
+    "backgroundTextStyle": "light",
     "navigationBarBackgroundColor": "#fff",
     "navigationBarTitleText": "蓝色代码",
-    "navigationBarTextStyle":"black"
+    "navigationBarTextStyle": "black"
   }
 }
